@@ -24,6 +24,12 @@ Which of the categories above does Snuke Ice fall into?
 Print your answer as an integer according to the Output Section.
 
 
+
+
+
+
+
+
 Constraints: 
 
 ● 0≤ A ≤100
