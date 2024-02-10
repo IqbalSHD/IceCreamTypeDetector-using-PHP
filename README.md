@@ -28,10 +28,10 @@ Problem Statement
 
 Constraints: 
 
-  ● 0≤ A ≤100
-  
-  ● 0≤ B ≤100
-  
-  ● A + B ≤100
-  
-  ● A and B are integers.
+    ● 0≤ A ≤100
+    
+    ● 0≤ B ≤100
+    
+    ● A + B ≤100
+    
+    ● A and B are integers.
