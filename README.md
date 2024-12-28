@@ -3,7 +3,7 @@ Tyrell Systems Sdn Bhd
 
 Problem Statement
 
-  In Japan, there are four major categories of ice cream type products:
+  There are four major categories of ice cream type products:
   
     ● an ice cream type product with at least 15 percent milk solids and at least 8 percent milk fat is called an ice cream;
     
